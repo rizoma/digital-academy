@@ -8,7 +8,8 @@ Se ha elegido Backbone por ser el más "mínimo" de los _frameworks_ disponibles
 
 ## Duración 
 
-12 horas, con sesiones de 4 horas cada semana los sábados (tres semanas).
+4 sesiones presenciales de 4 horas (16 horas en total), llevadas a cabo los sábados o durante las noches durante la semana (se alienta el estudio y práctica individual durante la semana).
+
 
 ## Pre-requisitos y audiencia
 
@@ -21,14 +22,14 @@ Se ha elegido Backbone por ser el más "mínimo" de los _frameworks_ disponibles
 
 ## Plan de sesiones
 
-### Sesión 1: preliminares (javascript, html/css, http)
+### Sesiones 1 y 2: preliminares (terminal, git, html/css, javascript, http)
 
-En esta sesión, mediante ejercicios puntuales, diálogos y explicaciones, se hará un diagnóstico de la familiaridad de los participantes con la línea de comandos y se explicarán los comandos necesarios, a la vez que se instalarán las herramientas esenciales. Una vez cumplida esta meta, se procederá a evaluar y suplementar la familiaridad de cada quien con conceptos más específicos, pero aún fundamentales: programación y diseño intermedios mediante html/css; se harán ejercicios auto-guiados y repasarán conceptos básicos para evaluar la proficiencia con javascript; lo mismo con el protocolo HTTP y las convenciones propuestas por la arquitectura "REST".
+En esta sesión, mediante ejercicios puntuales, diálogos y explicaciones, se hará un diagnóstico de la familiaridad de los participantes con la línea de comandos y se explicarán los comandos necesarios, a la vez que se instalarán las herramientas esenciales. Una vez cumplida esta meta, se procederá a evaluar y suplementar la familiaridad de cada quien con conceptos más específicos, pero aún fundamentales: programación y diseño intermedios mediante html/css, uso de herramientas como git + github; se harán ejercicios auto-guiados y repasarán conceptos básicos para evaluar la proficiencia con javascript; lo mismo con el protocolo HTTP y las convenciones propuestas por la arquitectura "REST".
 
-### Sesión 2: taller guiado básico
+### Sesión 3: taller guiado básico
 
 Mediante proyectos propuestos por el coordinador del curso, se hará al participante familiar, de manera práctica, con los conceptos fundamentales detrás de una aplicación que utiliza backbone, yendo desde el diseño hasta la implementación de un solo proyecto que explore todas las facilidades de Backbone; el proyecto a crearse será "mobile first", para también demostrar cómo una _single page app_ puede servir como prototipo de una aplicación móvil.
 
-### Sesión 3: taller guiado avanzado, proyecto individual/grupal.
+### Sesión 4: taller guiado avanzado, proyecto individual/grupal.
 
 Mediante el desarrollo de proyectos propuestos por individuos o grupos, se explorarán conceptos más avanzados de Backbone (autenticación, lógica compleja en varias "páginas", uso de "backends" simples por medio de [Parse](https://parse.com/), comunicación con servicios de terceros como Facebook o google maps, entre otras que interesen a los participantes en esta o sesiones anteriores).

@@ -6,7 +6,7 @@ La estructura del curso no asume demasiado del participante: comienza con una br
 
 ## Duración y horario
 
-3 sesiones presenciales de 4 horas a lo largo de 3 semanas (12 horas en total), llevadas a cabo los sábados (se alienta el estudio y práctica individual durante la semana).
+4 sesiones presenciales de 4 horas (16 horas en total), llevadas a cabo los sábados o durante las noches durante la semana (se alienta el estudio y práctica individual durante la semana).
 
 
 ## Pre-requisitos y audiencia
@@ -16,7 +16,7 @@ La estructura del curso no asume demasiado del participante: comienza con una br
 * Familiaridad con un sistema operativo basado en unix (linux o Mac OS X). La clase se desarrollará en uno de estos sistemas operativos, pero con un poco más de paciencia con las herramientas un participante usuario de Windows no habrá de encontrarse rezagado.
 * Cierto dominio del idioma inglés: muchos de los conceptos, y en especial las comunidades, tienen mucho más amplio soporte y documentación en inglés que en español.
 * Un interés concreto en el desarrollo de tecnología web, ya sea como programador, o como alguien cercano al proceso que quiera saber hablar los conceptos: diseñadores, administradores y educadores son bienvenidos.
-* Experiencia previa con programación y diseño web (html/css) será ventajosa para aprehender más de los contenidos de las sesiones, pero un suplemento decente de estudio individual podrá permitir al neófito sacar provecho del tema, los conceptos a tratar durante las sesiones se mantendrán intermedios a propósito, para beneficiar tanto al principiante en el mundo de la tecnología como al experto que busque modernizar sus conocimientos.
+* Experiencia previa con programación, diseño web (html/css) y control de versiones mediante Git será ventajosa para aprehender más de los contenidos de las sesiones, pero un suplemento decente de estudio individual podrá permitir al neófito sacar provecho del tema, los conceptos a tratar durante las sesiones se mantendrán intermedios a propósito, para beneficiar tanto al principiante en el mundo de la tecnología como al experto que busque modernizar sus conocimientos.
 
 ### Por qué asistir a estas sesiones?
 
@@ -29,15 +29,15 @@ Cualquier persona que se sienta en casa con una computadora, con hablar sobre co
 
 ## Plan de sesiones
 
-### Sesión 1: preliminares
+### Sesiones 1 y 2: preliminares (terminal, git, html/css, javascript)
 
-En esta sesión, mediante ejercicios puntuales, diálogos y explicaciones, se hará un diagnóstico de la familiaridad de los participantes con la línea de comandos y se explicarán los comandos necesarios, a la vez que se instalarán las herramientas esenciales. Una vez cumplida esta meta, se procederá a evaluar y suplementar la familiaridad de cada quien con conceptos más específicos, pero aún esenciales: programación y diseño básico mediante html/css. 
+En esta sesión, mediante ejercicios puntuales, diálogos y explicaciones, se hará un diagnóstico de la familiaridad de los participantes con la línea de comandos y se explicarán los comandos necesarios, a la vez que se instalarán las herramientas esenciales. Una vez cumplida esta meta, se procederá a evaluar y suplementar la familiaridad de cada quien con conceptos más específicos, pero aún esenciales: programación y diseño básico mediante html/css. Se introducirá brevemente el uso de git y github.
 
-### Sesión 2: taller guiado de Meteor
+### Sesión 3: taller guiado de Meteor
 
 Mediante proyectos propuestos por el coordinador del curso, se hará al participante familiar, de manera práctica, con los conceptos fundamentales detrás de cualquier prototipo web moderno en la implementación específica de Meteor.
 
-### Sesión 3: taller colaborativo de proyectos individuales
+### Sesión 4: taller colaborativo de proyectos individuales/grupales
 
 Los participantes habrán de traer, elaboradas en papel o, para los entusiastas, ya iniciadas en Meteor, ideas personales que quieran ver convertidas en prototipos funcionales. Se afianzarán o introducirán conceptos con el grupo conforme cada quien los encuentre necesarios, a la vez que se trabajará individualmente en el prototipo propio. La formación de equipos y el compartir de información serán actividades altamente alentadas; el coordinador de las sesiones estará disponible para ayudar. Al final de la sesión se harán disponibles públicamente tanto la aplicación como el código fuente (la primera es no negociable; el código fuente podrá permanecer privado si el participante justifica la imposibilidad de su distribución).
 
